@@ -1,0 +1,5 @@
+{
+  "name": "ML Zoomcamp - Python 3.11",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bookworm",
+  "postCreateCommand": "python -m pip install --upgrade pip && python -m pip install jupyter ipykernel"
+}
